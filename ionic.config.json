@@ -1,0 +1,7 @@
+{
+  "name": "TaskBoard_App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
