@@ -1,5 +1,5 @@
 # Task Board Mobile App
 
-# IOS
+# [IOS](https://github.com/CalenCalamity/TaskBoard_App/ios)
 
-# Android
+# [Android](https://github.com/CalenCalamity/TaskBoard_App/android)
